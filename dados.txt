@@ -1,12 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Douglas Antonio Miranda Dias
+-Profissão: To estudando
+-Cidade: Araçuai
+-O que faz nas horas vaga: Jogo
+-Feedback sobre o curso Qualidade de Software: 8
+-Feedback sobre a plataforma de estudo da EBAC: 8
 
 Obrigado!!!
-
+Por nada
 
